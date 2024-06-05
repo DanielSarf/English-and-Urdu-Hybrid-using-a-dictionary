@@ -1,0 +1,2 @@
+# Urdu-English-Hybrid-using-Dictionary
+ Throwback to my 1st Semester Project. This was a comedic project our teacher assigned to every student in our class, the comedic aspect being that some people in my country combine Urdu and English words when speaking (I do this too lol) and some people find it funny. This project is to emulate that effect. The learning objective were to teach us file handling, string manipulation and good coding practices.
