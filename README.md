@@ -9,6 +9,5 @@ The primary learning objectives were to teach us:
 
 Have a look at the results:
 
-![](/media/console_output.png)
 
 By working on this project, our class was able to gain practical experience in these areas in a fun and engaging way.
