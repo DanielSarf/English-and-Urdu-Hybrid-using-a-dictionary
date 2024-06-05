@@ -1,2 +1,10 @@
-# English-to-Roman-Urdu-Translator-using-Dictionary
-This was a comedic project our first semester computer programming teacher assigned to every student in our class, the comedic aspect being that some people in my country use a mix Urdu and English words when speaking (I do this too lol) and some people find it funny/distracting. This project is to emulate that effect. The learning objectives were to teach us file handling, string manipulation and good coding practices.
+# English and Roman Urdu Hybrid using a Dictionary
+
+This project was assigned by our computer programming teacher during the first semester as a comedic exercise. In our country, it's common for people to mix Urdu and English words in conversation, which can be both amusing and distracting. The goal of this project is to emulate that mix of languages.
+
+The primary learning objectives were to teach us:
+- File handling
+- String manipulation
+- Good coding practices
+
+By working on this project, our class was able to gain practical experience in these areas in a fun and engaging way.
